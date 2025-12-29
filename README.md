@@ -7,4 +7,4 @@
 ### Ссылки:
 #### Приложение на Golang: https://github.com/nylox23/RIP-SPA_Golang
 #### Приложение на фреймворке React: https://github.com/nylox23/RIP-SPA_React
-#### GitHub-Pages с проектом:
+#### GitHub-Pages с проектом: https://nylox23.github.io/Carbonate_calculator/
